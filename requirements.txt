@@ -1,0 +1,5 @@
+google-generativeai
+requests
+python-dotenv
+ffmpeg-python
+
